@@ -1,0 +1,23 @@
+Dependencies for Project 'template', Target 'Target 1': (DO NOT MODIFY !)
+F (..\CMSIS\arm_common_tables.h)(0x53C7D530)()
+F (..\CMSIS\arm_const_structs.h)(0x53C7D530)()
+F (..\CMSIS\arm_math.h)(0x53C7D530)()
+F (..\CMSIS\core_cm0.h)(0x53C7D530)()
+F (..\CMSIS\core_cm0plus.h)(0x53C7D530)()
+F (..\CMSIS\core_cm3.h)(0x53C7D530)()
+F (..\CMSIS\core_cm4.h)(0x53C7D530)()
+F (..\CMSIS\core_cm4_simd.h)(0x53C7D530)()
+F (..\CMSIS\core_cmFunc.h)(0x53C7D530)()
+F (..\CMSIS\core_cmInstr.h)(0x53C7D530)()
+F (..\CMSIS\core_sc000.h)(0x53C7D530)()
+F (..\CMSIS\core_sc300.h)(0x53C7D530)()
+F (..\CMSIS\startup_stm32f40_41xxx.s)(0x529EBB22)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f40_41xxx.lst --xref -o .\objects\startup_stm32f40_41xxx.o --depend .\objects\startup_stm32f40_41xxx.d)
+F (..\Startup\startup_stm32f40_41xxx.s)(0x529EBB22)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f40_41xxx.lst --xref -o .\objects\startup_stm32f40_41xxx_1.o --depend .\objects\startup_stm32f40_41xxx_1.d)
+F (..\FWLib\src\stm32f4xx_can.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_can.o --omf_browse .\objects\stm32f4xx_can.crf --depend .\objects\stm32f4xx_can.d)
+F (..\FWLib\src\stm32f4xx_adc.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_adc_1.o --omf_browse .\objects\stm32f4xx_adc_1.crf --depend .\objects\stm32f4xx_adc_1.d)
+F (..\FWLib\src\stm32f4xx_dac.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_dac.o --omf_browse .\objects\stm32f4xx_dac.crf --depend .\objects\stm32f4xx_dac.d)
+F (..\FWLib\src\stm32f4xx_exti.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_exti.o --omf_browse .\objects\stm32f4xx_exti.crf --depend .\objects\stm32f4xx_exti.d)
+F (..\FWLib\src\stm32f4xx_gpio.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_gpio.o --omf_browse .\objects\stm32f4xx_gpio.crf --depend .\objects\stm32f4xx_gpio.d)
+F (..\FWLib\src\stm32f4xx_rcc.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_rcc.o --omf_browse .\objects\stm32f4xx_rcc.crf --depend .\objects\stm32f4xx_rcc.d)
+F (..\FWLib\src\stm32f4xx_tim.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_tim.o --omf_browse .\objects\stm32f4xx_tim.crf --depend .\objects\stm32f4xx_tim.d)
+F (..\FWLib\src\stm32f4xx_usart.c)(0x52B3ACE6)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IE:\keil5\ARM\PACK\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IE:\keil5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F407xx-o .\objects\stm32f4xx_usart_1.o --omf_browse .\objects\stm32f4xx_usart_1.crf --depend .\objects\stm32f4xx_usart_1.d)
